@@ -1,0 +1,4 @@
+Version 1.1:
+- Create background infrastructure for the game
+- Create path
+- Create car and encode to follow path
