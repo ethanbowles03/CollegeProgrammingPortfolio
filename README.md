@@ -5,7 +5,7 @@ ___
 ___
 # Java:
 <p align="center">
-  <img src="MISC/TowerDefenseLogo.drawio.png" />
+  <img src="TowerDefense/TowerDefenseLogo.drawio.png" />
 </p>
 
 
@@ -26,47 +26,47 @@ ___
 >><details>
 >><summary>GameOver.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/GameOver.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/GameOver.png)
 >>  
 >></details>
 >><details>
 >><summary>HaasCar.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/HaasCar.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/HaasCar.png)
 >>  
 >></details>
 >><details>
 >><summary>HaasTruck.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/HaasTruck.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/HaasTruck.png)
 >>  
 >></details>
 >><details>
 >><summary>MenuOverlay.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/MenuOverlay.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/MenuOverlay.png)
 >>  
 >></details>
 >><details>
 >><summary>OilBarrel.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/OilBarrel.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/OilBarrel.png)
 >>  
 >></details>
 >><details>
 >><summary>path_2.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/path_2.jpg)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/path_2.jpg)
 >>  
 >></details>
 >><details>
 >><summary>WaterBottle.png</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/WaterBottle.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/WaterBottle.png)
 >>  
 >></details>
 >
->  [View All Resources](resources) 
+>  [View All Resources](TowerDefense/TowerDefense/resources) 
 >
 ></details>
 ><details>
@@ -75,7 +75,7 @@ ___
 >><details>
 >><summary>UML Diagram</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/TowerDefense.umlcd.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/TowerDefense.umlcd.png)
 >>  
 >></details>
 > 
@@ -86,13 +86,13 @@ ___
 >><details>
 >><summary>Game Screen</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](MISC/GameSC1.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/MISC/GameSC1.png)
 >>  
 >></details>
 >><details>
 >><summary>End Game Screen</summary>
 >>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](resources/GameOver.png)
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](TowerDefense/resources/GameOver.png)
 >>  
 >></details>
 > 
@@ -103,25 +103,25 @@ ___
 ><details>
 ><summary>Source Code</summary>
 >  
->  - [Animatable.java](src/Animatable.java)
->  - [Enemy.java](src/Enemy.java)
->  - [EnemyHaasCar.java](src/EnemyHaasCar.java)
->  - [EnemyHaasTruck.java](src/EnemyHaasTruck.java)
->  - [GameControl.java](src/GameControl.java)
->  - [GameOver.java](src/GameOver.java)
->  - [GameState.java](src/GameState.java)
->  - [GameView.java](src/GameView.java)
->  - [Menu.java](src/Menu.java)
->  - [Path.java](src/Path.java)
->  - [ResourceLoader.java](src/ResourceLoader.java)
->  - [TowerDefense.java](src/TowerDefense.java)
->  - [TowerMenuOil.java](src/TowerMenuOil.java)
->  - [TowerMenuWater.java](src/TowerMenuWater.java) 
->  - [TowerOil.java](src/TowerOil.java)
->  - [TowerOilMoving.java](src/TowerOilMoving.java)
->  - [TowerWater.java](src/TowerWater.java)
->  - [TowerWaterMoving.java](src/TowerWaterMoving.java) 
+>  - [Animatable.java](TowerDefense/src/Animatable.java)
+>  - [Enemy.java](TowerDefense/src/Enemy.java)
+>  - [EnemyHaasCar.java](TowerDefense/src/EnemyHaasCar.java)
+>  - [EnemyHaasTruck.java](TowerDefense/src/EnemyHaasTruck.java)
+>  - [GameControl.java](TowerDefense/src/GameControl.java)
+>  - [GameOver.java](TowerDefense/src/GameOver.java)
+>  - [GameState.java](TowerDefense/src/GameState.java)
+>  - [GameView.java](TowerDefense/src/GameView.java)
+>  - [Menu.java](TowerDefense/src/Menu.java)
+>  - [Path.java](TowerDefense/src/Path.java)
+>  - [ResourceLoader.java](TowerDefense/src/ResourceLoader.java)
+>  - [TowerDefense.java](TowerDefense/src/TowerDefense.java)
+>  - [TowerMenuOil.java](TowerDefense/src/TowerMenuOil.java)
+>  - [TowerMenuWater.java](TowerDefense/src/TowerMenuWater.java) 
+>  - [TowerOil.java](TowerDefense/src/TowerOil.java)
+>  - [TowerOilMoving.java](TowerDefense/src/TowerOilMoving.java)
+>  - [TowerWater.java](TowerDefense/src/TowerWater.java)
+>  - [TowerWaterMoving.java](TowerDefense/src/TowerWaterMoving.java) 
 >
->  [View All Code](src) 
+>  [View All Code](TowerDefense/src) 
 >  
 ></details>
