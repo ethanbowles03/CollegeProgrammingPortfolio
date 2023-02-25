@@ -1,0 +1,51 @@
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\Spreadsheet.deps.json
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\Spreadsheet.dll
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\Spreadsheet.pdb
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\DependencyGraph.dll
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\Formula.dll
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\DependencyGraph.pdb
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\bin\Debug\net6.0\Formula.pdb
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfoInputs.cache
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfo.cs
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CopyComplete
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.dll
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\refint\Spreadsheet.dll
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\Spreadsheet.pdb
+D:\Visual Studio\Repos\Spreadsheet\Spreadsheet\obj\Debug\net6.0\ref\Spreadsheet.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.deps.json
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\DependencyGraph.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Formula.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\DependencyGraph.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Formula.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CopyComplete
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\refint\Spreadsheet.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\ref\Spreadsheet.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.deps.json
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Spreadsheet.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\DependencyGraph.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Formula.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\DependencyGraph.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\bin\Debug\net6.0\Formula.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.AssemblyReference.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.csproj.CopyComplete
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\refint\Spreadsheet.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\Spreadsheet.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Spreadsheet\obj\Debug\net6.0\ref\Spreadsheet.dll
