@@ -1,0 +1,36 @@
+D:\Visual Studio\Repos\Spreadsheet\Formula\bin\Debug\net6.0\Formula.deps.json
+D:\Visual Studio\Repos\Spreadsheet\Formula\bin\Debug\net6.0\Formula.dll
+D:\Visual Studio\Repos\Spreadsheet\Formula\bin\Debug\net6.0\Formula.pdb
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.AssemblyInfoInputs.cache
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.AssemblyInfo.cs
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.dll
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\refint\Formula.dll
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\Formula.pdb
+D:\Visual Studio\Repos\Spreadsheet\Formula\obj\Debug\net6.0\ref\Formula.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.deps.json
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\refint\Formula.dll
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.pdb
+C:\Users\Ethan\source\repos\ps6-goatifi\Formula\obj\Debug\net6.0\ref\Formula.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.deps.json
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\bin\Debug\net6.0\Formula.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.csproj.AssemblyReference.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.AssemblyInfoInputs.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.AssemblyInfo.cs
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\refint\Formula.dll
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\Formula.pdb
+C:\Users\conne\Source\Repos\ps6-goatifi\Formula\obj\Debug\net6.0\ref\Formula.dll
