@@ -1,6 +1,0 @@
-mat
-matter
-sat
-satturn
-ball
-wall
