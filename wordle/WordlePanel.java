@@ -159,8 +159,7 @@ public class WordlePanel extends JPanel{
 		if(win) {
 			setBackground(Color.GREEN);
 			g.setFont(new Font("Times New Roman", Font.BOLD, 50));
-			g.drawString("You win you fat", 75,300);
-			g.drawString("fucking asshole", 85,350);
+			g.drawString("You win", 75,300);
 		}else {
 			paintBoxes(g, this.pointerX, this.pointerY, this.finshedLine);
 			g.drawLine(0, 575, 500, 575);

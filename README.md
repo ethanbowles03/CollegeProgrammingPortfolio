@@ -3,7 +3,7 @@
 
 ___
 ___
-# Java:
+# Year 1:
 <p align="center">
   <img src="TowerDefense/TowerDefenseLogo.drawio.png" />
 </p>
@@ -123,5 +123,52 @@ ___
 >  - [TowerWaterMoving.java](TowerDefense/src/TowerWaterMoving.java) 
 >
 >  [View All Code](TowerDefense/src) 
+>  
+></details>
+
+___
+
+# Wordle
+>## About This Project
+#### This project is a copy of the well known game wordle. You are given 5 guesses to to choose the correct word. In this application there is a list of around 10000 words in the game. These are read through a text file and stored in the game. If a correct letter is guess in the right location the square turns green, if in the wrong location turns yellow, and a wrong guess the square remains the same color. Background music was added to this project. 
+
+
+>## Current Version - 1.1
+>
+
+
+
+>## Diagrams and Resources
+><details>
+><summary>Resources</summary>
+>  
+>><details>
+>><summary>WordleGamePic.png</summary>
+>>
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](wordle/images/WordleGamePic.png)
+>>  
+>></details>
+>><details>
+>><summary>WordleWinScreen.png</summary>
+>>
+>>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](wordle/images/WordleWinScreen.png)
+>>  
+>></details>
+>> 
+>> [Answers.txt](wordle/Answers.txt) 
+>
+></details>
+
+
+>## Code
+><details>
+><summary>Source Code</summary>
+>  
+>  - [Box.java](wordle/Box.java) 
+>  - [MusicPlayer.java](wordle/MusicPlayer.java) 
+>  - [Wordle.java](wordle/Wordle.java) 
+>  - [WordlePanel.java](wordle/WordlePanel.java) 
+>
+>  [View All Code](wordle) 
 >  
 ></details>
