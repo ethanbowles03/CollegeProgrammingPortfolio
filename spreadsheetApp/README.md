@@ -2,6 +2,9 @@
 Spreadsheet Application
 Authors: Conner Fisk, Ethan Bowles
 
+To access a full copy of the spreadsheet please visit this link and download the zip. After downloading the zip open the .sln file in visual studio.
+https://drive.google.com/file/d/18VrHkN0emgVXiw-mJu41j9gRDCjlR5wV/view?usp=sharing 
+
 A spreadsheet application which allows the user to create a new spreadsheet, open an existing one, and save a current one in the application. The user can use cells 
 and variables (if the variables have a value) of format A1 through Z99 to store specific formulas or values and create desired calculations.
 
