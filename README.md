@@ -295,11 +295,11 @@ ___
 ><details>
 ><summary>Source Code</summary>
 >  
->  - [index.html](spreadsheetApp/spreadsheet/DependencyGraph.cs) 
->  - [style.css](spreadsheetApp/spreadsheet/Formula.cs) 
->  - [scripts.js](spreadsheetApp/spreadsheet//Spreadsheet.cs) 
+>  - [index.html](Website/index.html) 
+>  - [style.css](Website/style.css) 
+>  - [scripts.js](Website/Scripts/myscripts.js) 
 >
->  [View All Code](spreadsheetApp) 
+>  [View All Code](Website) 
 >  
 ></details>
 ___
