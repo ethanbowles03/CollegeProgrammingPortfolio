@@ -282,5 +282,27 @@ ___
 >  
 ></details>
 
+___
+
+# Website
+>## About This Project
+#### Personal website used to showcase my programming projects and learn how to code HTML, CSS, and JS. Tried to implement a couple JS animation scripts.
+
+
+>## Current Version - 1.1
+
+>## Code
+><details>
+><summary>Source Code</summary>
+>  
+>  - [index.html](spreadsheetApp/spreadsheet/DependencyGraph.cs) 
+>  - [style.css](spreadsheetApp/spreadsheet/Formula.cs) 
+>  - [scripts.js](spreadsheetApp/spreadsheet//Spreadsheet.cs) 
+>
+>  [View All Code](spreadsheetApp) 
+>  
+></details>
+___
+
 # C++ Projects
 >[C++ Projects](C++_Projects) 
