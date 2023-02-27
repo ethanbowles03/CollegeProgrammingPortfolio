@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type = "text/javascript" src="Scripts/myscripts.js"></script>
+    <title>Ethan Bowles</title>
+  </head>
+  <body id="navbar-anchor">
+    <nav class="navbar">
+      <div class="nav-contents">
+        <div class="logo">
+          <a href="#navbar-anchor">
+            <img src="assets/logo.png" alt="logo">
+          </a>
+        </div>
+        <ul class="menu">
+          <div class="icon canButton">
+            <img class="menu-icon" onclick="cancelBtnClicked()" src="assets/navbar-toggle.png"></img>
+          </div>
+          <li><a class="active" href="#about-anchor"><strong>About</strong></a></li>
+          <li><a href="#projects-anchor"><strong>Projects</strong></a></li>
+          <li><a href="#contact-anchor"><strong>Contact</strong></a></li>
+          <li><a href="https://www.github.com/ethanbowles03">
+            <img class="git" src="assets/git.png" alt="git" >
+          </a></li>
+        </ul>
+        <div class="icon menuButton">
+          <img class="menu-icon" onclick="menuBtnClicked()" src="assets/navbar-toggle.png"></img>
+        </div>
+      </div>
+    </nav>
+    <div class="page-content">
+      <div class="background">
+        <div class="welcome-container">
+          <div class="welcome-text" id="welcome-text">
+            <script>
+              welcomeText(" Hi I'm Ethan * -Software Developer-");
+            </script>
+          </div>
+        </div>
+      </div>
+      <div class="content-body">
+        <div id="about-anchor"></div>
+        <div class="about-title" id="about-title">
+          About Me
+        </div>
+        <div class="about-wrapper">
+          <div class="about-card" id="about-card">
+            <div class="about-card-body">
+              <strong>Mission Statement:</strong><br>
+              - Highly motivated and detail-oriented Computer Science student in the University of Utah's Honors
+College, with a passion for software engineering and math, and a strong foundation in problem-solving
+and critical thinking <br>
+              <strong>Education:</strong><br>
+              - 2nd Year @ University of Utah <br>
+              - Program: Honors BS Computer Science / Minor Mathematics <br>
+              <strong>Goals:</strong><br>
+              - Summer Internship <br>
+              - Enhance Portfolio <br>
+            </div>
+          </div>
+          <div class="about-photo" id="about-photo">
+            <img class="about-image" src="assets/about-image.jpg"></img>
+          </div>
+        </div>
+        <div class="projects-spacer" id="projects-anchor"></div>
+        <div class="projects-title">
+          Highlighted Projects
+        </div>
+        <div class="projects-wrapper">
+          <ul class="projects">
+            <li>
+              <a href="https://www.github.com/ethanbowles03">
+                <div class="project">
+                  <img class="project-image" id="project-image" src="assets/Spreadsheet.PNG"></img>
+                  <div class="project-text" id="project-text" href="youtube.com">
+                    <strong>Spreadsheet:</strong><br>
+                    - A spreadsheet app for creating, opening, and saving files. Use cells and variables to perform calculations and store formulas. Includes copy, paste, and cell chaining. <br>
+                    <strong>What I Learned:</strong><br>
+                    - Separation of Concerns, Infix expressions, and MAUI<br>
+                    <strong>Favorite Part of Project:</strong><br>
+                    - Math behind the formula and infix<br>
+                  </div>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.github.com/ethanbowles03">
+                <div class="project">
+                  <img class="project-image"id="project-image" src="assets/SnakeGame.PNG"></img>
+                  <div class="project-text" id="project-text">
+                    <strong>Snake Game:</strong><br>
+                    - Fully multiplayer classic snake game. Uses a TCP socket handshake to establish connection between the server and the client. The server handles mechanics. Clients handle displaying. <br>
+                    <strong>What I Learned:</strong><br>
+                    - Async programming, TCP, and Seperation of Concerns<br>
+                    <strong>Favorite Part of Project:</strong><br>
+                    - Introduction to sockets<br>
+                  </div>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.github.com/ethanbowles03">
+                <div class="project">
+                  <img class="project-image" id="project-image" src="assets/background.jpg"></img>
+                  <div class="project-text" id="project-text">
+                    <strong>Website:</strong><br>
+                    - Personal website used to showcase my programming projects and learn how to code HTML, CSS, and JS. Tried to implement a couple JS animation scripts. <br>
+                    <strong>What I Learned:</strong><br>
+                    - HTML, CSS, JS<br>
+                    <strong>Favorite Part of Project:</strong><br>
+                    - Building the website from the ground up and learning website development.<br>
+                  </div>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.github.com/ethanbowles03">
+                <div class="project">
+                  <img class="project-image" id="project-image" src="assets/LearningMenu.png"></img>
+                  <div class="project-text" id="project-text">
+                    <strong>Learning Menu:</strong><br>
+                    - Learning Menu/Course Selector application for teachers and students to use in school. Teachers upload courses and clubs, and students make selections from those courses. <br>
+                    <strong>What I Learned:</strong><br>
+                    - AGILE development and C# Windows Forms<br>
+                    <strong>Favorite Part of Project:</strong><br>
+                    - First time participating in a coding competition. Recieved 1st place at the state level.<br>
+                  </div>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="contact-wrapper">
+          <div class="contact-title" id="contact-anchor">
+            Contact Me
+          </div>
+          <ul class="social-contacts">
+            <li><a href="https://www.github.com/ethanbowles03">
+              <img src="assets/gitlogo.png">
+            </a></li>
+            <li><a href="https://www.instagram.com/ethan_bowles03">
+              <img src="assets/instalogo.png">
+            </a></li>
+            <li><a href="https://www.youtube.com/channel/UCl81pHF8GsP_qCo_fiWxa7g">
+              <img src="assets/youtubelogo.png">
+            </a></li>
+            <li><a href=mailto:ethan.p.bowles@gmail.com>
+              <img src="assets/mailogo.png">
+            </a></li>
+          </u>
+        </div>
+      </div>
+    </div>
+</html>
