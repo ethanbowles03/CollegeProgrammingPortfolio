@@ -287,9 +287,9 @@ ___
 # Websites
 >## About This Project
 #### Personal website used to showcase my programming projects and learn how to code HTML, CSS, and JS. Tried to implement a couple JS animation scripts.
-[ethanpbowles.com](ethanpbowles.com)
+[ethanpbowles](https://ethanpbowles.com)
 #### Website for cousins lawncare buisness. Contains welcome page, services and a contact page. 
-[snidermowing.com](snidermowing.com)
+[snidermowing](https://snidermowing.com/)
 
 >## Current Version - 1.1
 
