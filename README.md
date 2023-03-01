@@ -312,7 +312,7 @@ ___
 >  - [style.css](RyansWebsite/style.css) 
 >  - [scripts.js](RyansWebsite/Scripts/myscripts.js) 
 >
->  [View All Code](Website) 
+>  [View All Code](RyansWebsite) 
 >  
 ></details>
 ___
