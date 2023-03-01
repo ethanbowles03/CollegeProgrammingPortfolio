@@ -6,7 +6,7 @@ ___
 # Year 1:
 
 # Tower Defense Game
-___
+
 >## About This Project
 #### This Formula One inspired tower defense game is one of my first attempts at a game. One of the most important things for my partner and I was to make the graphics look good and add basic animation. After figuring out the path system we added cars and made them turn as they moved down the path to simulate actual movement. We added towers and basic gameplay rules. This project developed my overall programming skills. One of the most important things I learned from this project was how to implement separation of concerns and programming concepts such as encapsulation and inheritance.
 
