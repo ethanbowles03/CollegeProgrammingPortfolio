@@ -3,14 +3,11 @@
 
 ___
 ___
-# Year 1:
 
 # Tower Defense Game
 
 >## About This Project
 #### This Formula One inspired tower defense game is one of my first attempts at a game. One of the most important things for my partner and I was to make the graphics look good and add basic animation. After figuring out the path system we added cars and made them turn as they moved down the path to simulate actual movement. We added towers and basic gameplay rules. This project developed my overall programming skills. One of the most important things I learned from this project was how to implement separation of concerns and programming concepts such as encapsulation and inheritance.
-
->## Current Version - 1.1
 
 >## Diagrams and Resources
 ><details>
@@ -125,8 +122,6 @@ ___
 >## About This Project
 #### This project is a copy of the well known game Wordle. You are given 5 guesses to choose the correct word. In this application there is a list of around 10,000 words in the game. These are read through a text file and stored in the game. If a correct letter is guessed in the right location, the square turns green. If a correct letter guessed in the wrong location, the square turns yellow. If an incorrect letter is guessed, the square remains the same color. Background music was added to this project
 
->## Current Version - 1.1
-
 >## Diagrams and Resources
 ><details>
 ><summary>Resources</summary>
@@ -168,8 +163,6 @@ ___
 >## About This Project
 #### This program constructs a certain number of random sentences from a .g grammar file. It recursively reads the .g files and constructs sentences by jumping to instructions that are located in <>.
 
->## Current Version - 1.1
-
 >## Diagrams and Resources
 ><details>
 ><summary>Resources</summary>
@@ -190,95 +183,6 @@ ___
 >  
 ></details>
 
-
-# Year 2:
-___
-
-# Spreadsheet Application
->## About This Project
-#### A spreadsheet application which allows the user to create a new spreadsheet, open an existing one, or save the current one to a file. The user can use cells and variables (if the variables have a value) of format A1 through Z99 to store specific formulas or values and create desired calculations. Implements copy and paste functions and cell chaining for a complete spreadsheet experience.
-
-
->## Current Version - 1.1
-
->## Diagrams and Resources
-><details>
-><summary>Resources</summary>
->  
->><details>
->><summary>SpreadsheetPic1.png</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](spreadsheetApp/SpreadsheetPic1.PNG)
->>  
->></details>
->> 
->> [README W More Details](spreadsheetApp/README.md) 
->
-></details>
-
->## Code
-><details>
-><summary>Source Code</summary>
->  
->  - [DependencyGraph.cs](spreadsheetApp/spreadsheet/DependencyGraph.cs) 
->  - [Formula.cs](spreadsheetApp/spreadsheet/Formula.cs) 
->  - [Spreadsheet.cs](spreadsheetApp/spreadsheet//Spreadsheet.cs) 
->  - [MAUI](spreadsheetApp/MAUI%Program) 
->
->  [View All Code](spreadsheetApp) 
->  
-></details>
-
-___
-
-# Snake Game
->## About This Project
-#### Fully multiplayer snake game that allows multiple players connect. Uses a TCP socket handshake to establish connection between the server and the client. The server handles the computation of snake, wall, and power-up locations, along with game collisions, physics and score keeping. The client code connects to the server and displays all information sent by the server on the screen of the player. The server has no limit on client connections. The goal of the game is to grow your snake as long as possible while avoiding walls and other players.
-
-
->## Current Version - 1.1
-
->## Diagrams and Resources
-><details>
-><summary>Resources</summary>
->  
->><details>
->><summary>InGame.png</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](SnakeGame/Images/SnakeGamePic1.PNG)
->>  
->></details>
->><details>
->><summary>Client.png</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](SnakeGame/Images/SnakeGamePic2.PNG)
->>  
->></details>
->><details>
->><summary>Server.png</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](SnakeGame/Images/SnakeGamePic3.PNG)
->>  
->></details>
->> 
->> [README W More Details](SnakeGame/README.md) 
->
-></details>
-
->## Code
-><details>
-><summary>Source Code</summary>
->  
->  - [Model](SnakeGame/Model) 
->  - [Server](SnakeGame/Server) 
->  - [ServerController](SnakeGame/ServerController) 
->  - [SnakeClient](SnakeGame/SnakeClient) 
->  - [Vector2D](SnakeGame/Vector2D) 
->
->  [View All Code](SnakeGame) 
->  
-></details>
-
 ___
 
 # Websites
@@ -287,8 +191,6 @@ ___
 [ethanpbowles](https://ethanpbowles.com)
 #### Website for cousins lawncare buisness. Contains welcome page, services and a contact page. 
 [snidermowing](https://snidermowing.com/)
-
->## Current Version - 1.1
 
 >## Personal Website Code
 ><details>
