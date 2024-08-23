@@ -218,4 +218,7 @@ ___
 ___
 
 # C++ Projects
->[C++ Projects](C++_Projects) 
+>[C++ Projects](C++_Projects)
+
+# More Projects
+>[View More Projects](https://github.com/ethanbowles03/WebsitePortfolio) 
