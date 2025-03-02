@@ -1,51 +1,52 @@
-function setupvars(){
-  this.navbar = document.querySelector(".navbar");
-  this.menu = document.querySelector(".menu");
-  this.menuBtn = document.querySelector(".menuButton");
-  this.cancelBtn = document.querySelector(".canButton");
-}
-
-function menuBtnClicked(){
-  setupvars();
-  menu.classList.add("active");
-  menuBtn.classList.add("hide");
-  cancelBtn.classList.add("show");
-}
-
-function cancelBtnClicked(){
-  setupvars();
-  menu.classList.remove("active");
-  menuBtn.classList.remove("hide");
-  cancelBtn.classList.remove("show");
-}
-
-window.onscroll = function() {scrollFunction()};
-function scrollFunction() {
-  setupvars();
-  this.scrollY > 20 ? navbar.classList.add("sticky") : navbar.classList.remove("sticky");
-  this.scrollY > window.innerHeight ? navbar.style.background = "#F0EAD6" : navbar.style.background = "transparent" ;
-}
-
 function welcomeText(text) {
   var index = 0;
   var speed = 100;
   const elem = document.getElementById("welcome-text");
-  var printNextLetter = function() {
+  var printNextLetter = function () {
     if (index < text.length) {
       var ch = text[index];
-      if(ch == '*'){
+      if (ch == '*') {
         elem.innerHTML = elem.innerHTML.substring(0, elem.innerHTML.length - 1) + '<br>' + '|';
-      }else{
-        if(index == text.length - 1){
+      } else {
+        if (index == text.length - 1) {
           elem.innerHTML = elem.innerHTML.substring(0, elem.innerHTML.length - 1) + ch;
-        }else{
+          if(window.pageYOffset <= 100){
+            scrollToBottom(1000);
+          }
+        } else {
           elem.innerHTML = elem.innerHTML.substring(0, elem.innerHTML.length - 1) + ch + '|';
         }
-
       }
       index++;
       setTimeout(printNextLetter, speed);
     }
   }
   setTimeout(printNextLetter, 1000);
+}
+
+// Scroll to the bottom of the page
+function scrollToBottom(duration) {
+  const start = window.pageYOffset;
+  const end = start + window.innerHeight;
+  const change = end - start;
+  let currentTime = 0;
+  const increment = 20;
+
+  const animateScroll = function() {
+    currentTime += increment;
+    const val = Math.easeInOutQuad(currentTime, start, change, duration);
+    window.scrollTo(0, val);
+    if (currentTime < duration) {
+      setTimeout(animateScroll, increment);
+    }
+  };
+
+  Math.easeInOutQuad = function(t, b, c, d) {
+    t /= d/2;
+    if (t < 1) return c/2*t*t + b;
+    t--;
+    return -c/2 * (t*(t-2) - 1) + b;
+  };
+
+  animateScroll();
 }

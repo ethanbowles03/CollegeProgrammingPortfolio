@@ -1,156 +1,210 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="style.css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type = "text/javascript" src="Scripts/myscripts.js"></script>
-    <title>Ethan Bowles</title>
-  </head>
-  <body id="navbar-anchor">
-    <nav class="navbar">
-      <div class="nav-contents">
-        <div class="logo">
-          <a href="#navbar-anchor">
-            <img src="assets/logo.png" alt="logo">
-          </a>
-        </div>
-        <ul class="menu">
-          <div class="icon canButton">
-            <img class="menu-icon" onclick="cancelBtnClicked()" src="assets/navbar-toggle.png"></img>
-          </div>
-          <li><a class="active" href="#about-anchor"><strong>About</strong></a></li>
-          <li><a href="#projects-anchor"><strong>Projects</strong></a></li>
-          <li><a href="#contact-anchor"><strong>Contact</strong></a></li>
-          <li><a href="https://www.github.com/ethanbowles03">
-            <img class="git" src="assets/git.png" alt="git" >
-          </a></li>
-        </ul>
-        <div class="icon menuButton">
-          <img class="menu-icon" onclick="menuBtnClicked()" src="assets/navbar-toggle.png"></img>
-        </div>
-      </div>
-    </nav>
-    <div class="page-content">
-      <div class="background">
-        <div class="welcome-container">
-          <div class="welcome-text" id="welcome-text">
-            <script>
-              welcomeText(" Hi I'm Ethan * -Software Developer-");
-            </script>
-          </div>
-        </div>
-      </div>
-      <div class="content-body">
-        <div id="about-anchor"></div>
-        <div class="about-title" id="about-title">
-          About Me
-        </div>
-        <div class="about-wrapper">
-          <div class="about-card" id="about-card">
-            <div class="about-card-body">
-              <strong>Mission Statement:</strong><br>
-              - Highly motivated and detail-oriented Computer Science student in the University of Utah's Honors
-College, with a passion for software engineering and math, and a strong foundation in problem-solving
-and critical thinking <br>
-              <strong>Education:</strong><br>
-              - 2nd Year @ University of Utah <br>
-              - Program: Honors BS Computer Science / Minor Mathematics <br>
-              <strong>Goals:</strong><br>
-              - Summer Internship <br>
-              - Enhance Portfolio <br>
-            </div>
-          </div>
-          <div class="about-photo" id="about-photo">
-            <img class="about-image" src="assets/about-image.jpg"></img>
-          </div>
-        </div>
-        <div class="projects-spacer" id="projects-anchor"></div>
-        <div class="projects-title">
-          Highlighted Projects
-        </div>
-        <div class="projects-wrapper">
-          <ul class="projects">
-            <li>
-              <a href="https://www.github.com/ethanbowles03">
-                <div class="project">
-                  <img class="project-image" id="project-image" src="assets/Spreadsheet.PNG"></img>
-                  <div class="project-text" id="project-text" href="youtube.com">
-                    <strong>Spreadsheet:</strong><br>
-                    - A spreadsheet app for creating, opening, and saving files. Use cells and variables to perform calculations and store formulas. Includes copy, paste, and cell chaining. <br>
-                    <strong>What I Learned:</strong><br>
-                    - Separation of Concerns, Infix expressions, and MAUI<br>
-                    <strong>Favorite Part of Project:</strong><br>
-                    - Math behind the formula and infix<br>
-                  </div>
-                </div>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.github.com/ethanbowles03">
-                <div class="project">
-                  <img class="project-image"id="project-image" src="assets/SnakeGame.PNG"></img>
-                  <div class="project-text" id="project-text">
-                    <strong>Snake Game:</strong><br>
-                    - Fully multiplayer classic snake game. Uses a TCP socket handshake to establish connection between the server and the client. The server handles mechanics. Clients handle displaying. <br>
-                    <strong>What I Learned:</strong><br>
-                    - Async programming, TCP, and Seperation of Concerns<br>
-                    <strong>Favorite Part of Project:</strong><br>
-                    - Introduction to sockets<br>
-                  </div>
-                </div>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.github.com/ethanbowles03">
-                <div class="project">
-                  <img class="project-image" id="project-image" src="assets/background.jpg"></img>
-                  <div class="project-text" id="project-text">
-                    <strong>Website:</strong><br>
-                    - Personal website used to showcase my programming projects and learn how to code HTML, CSS, and JS. Tried to implement a couple JS animation scripts. <br>
-                    <strong>What I Learned:</strong><br>
-                    - HTML, CSS, JS<br>
-                    <strong>Favorite Part of Project:</strong><br>
-                    - Building the website from the ground up and learning website development.<br>
-                  </div>
-                </div>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.github.com/ethanbowles03">
-                <div class="project">
-                  <img class="project-image" id="project-image" src="assets/LearningMenu.png"></img>
-                  <div class="project-text" id="project-text">
-                    <strong>Learning Menu:</strong><br>
-                    - Learning Menu/Course Selector application for teachers and students to use in school. Teachers upload courses and clubs, and students make selections from those courses. <br>
-                    <strong>What I Learned:</strong><br>
-                    - AGILE development and C# Windows Forms<br>
-                    <strong>Favorite Part of Project:</strong><br>
-                    - First time participating in a coding competition. Recieved 1st place at the state level.<br>
-                  </div>
-                </div>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="contact-wrapper">
-          <div class="contact-title" id="contact-anchor">
-            Contact Me
-          </div>
-          <ul class="social-contacts">
-            <li><a href="https://www.github.com/ethanbowles03">
-              <img src="assets/gitlogo.png">
-            </a></li>
-            <li><a href="https://www.instagram.com/ethan_bowles03">
-              <img src="assets/instalogo.png">
-            </a></li>
-            <li><a href="https://www.youtube.com/channel/UCl81pHF8GsP_qCo_fiWxa7g">
-              <img src="assets/youtubelogo.png">
-            </a></li>
-            <li><a href=mailto:ethan.p.bowles@gmail.com>
-              <img src="assets/mailogo.png">
-            </a></li>
-          </u>
-        </div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ethan Bowles Portfolio and Resume">
+  <meta name="keywords" content="Software Engineering, Portfolio, Resume, Ethan Bowles">
+  <meta name="author" content="Ethan Bowles">
+  <title>Your Portfolio & Resume</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="text/javascript" src="Scripts/myscripts.js"></script>
+</head>
+<body>
+  <div class="background">
+    <div class="welcome-container">
+      <div class="welcome-text" id="welcome-text">
+        <script>
+          welcomeText(" - Hi I'm Ethan - ");
+        </script>
       </div>
     </div>
+  </div>
+  <header>
+    <div class="profile-pic-container">
+      <img src="assets/proimg.png" alt="Ethan Bowles" class="profile-pic">
+    </div>
+    <h1>Ethan Bowles</h1>
+    <p class="mission-statement">
+      As a dedicated Computer Science student at the University of Utah's Honors College, I thrive on solving complex problems and exploring the intersections of software engineering and mathematics.
+      My internship at Myriad Genetics has honed my technical skills, particularly in automation scripting, data analysis, and AI integration. 
+      Additionally, my experience as a Summer Camp Counselor at Wasatch Kids Camp has developed my ability to collaborate and manage responsibilities effectively in diverse settings.
+    </p>
+    <br>
+    <p class="employment-objective">
+      <strong>
+        Employment Objective: I'm looking to join a forward-thinking, diverse software engineering team where I can apply my technical knowledge and enthusiasm for tackling real-world challenges. 
+        My goal is to contribute to innovative, life-changing projects while continuing to grow as a professional in the field.
+      </strong>
+    </p>
+  </header>
+  <div class="container">
+    <div class="left-column">
+      <section class="resume-section">
+        <h1 align="center">Resume</h1>
+        <section class="resume-section">
+          <h2>Professional Experience</h2>
+          <div class="resume-item">
+            <h3>Myriad Genetics - Software Engineering Intern</h3>
+            <p><strong>South San Francisco, CA | Summers 2023-2024</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Developed a Python-based CLI using Click to automate team onboarding and routine tasks. Engineered a modular
+              framework for seamless integration of team-specific commands, and pitched the solution to 120+ Tech Org members
+              and executives, resulting in multiple team adoptions.
+            </p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Created interactive dashboards in DNANexus and Looker for Myriad’s Cancer Patient Registry, developed a Python/Flask
+              web form to track Health Intelligence Impact Report requests, and collaborated with medical specialists to present AI
+              implementation strategies to 100+ attendees at Myriad’s Tech Conference.
+            </p>
+          </div>
+          <div class="resume-item">
+            <h3>Teaching Assistant - Intro to Data Structures and Algorithms</h3>
+            <p><strong>University of Utah, Khalert School of Computing | August 2024 - Present</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Guided and assisted students in Intro to Data Structures and Algorithms by teaching lab sessions, hosting weekly help
+              hours via Piazza, grading coursework, and administering tests.
+            </p>
+          </div>
+          <div class="resume-item">
+            <h3>Wasatch Kids Camp - Summer Camp Counselor</h3>
+            <p><strong>Salt Lake City, UT | Summers 2020-2022</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Supervised 50+ children, ensuring safety and a fun environment while collaborating with a team of three to manage
+              activities, finances, and resolve issues.
+            </p>
+          </div>
+
+          <h2>Education</h2>
+          <div class="resume-item">
+            <h3>University of Utah, Khalert School of Computing</h3>
+            <p><strong>Honors Bachelor of Science in Computer Science, Minor in Mathematics | Current</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- <strong>GPA: 3.787</strong> (Deans List: Fall 2021, Spring 2022, Fall 2022, Spring 2023,
+              Fall 2023, Spring 2024, Fall 2024)</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Algorithms, Database Systems, Computer Networking, Intro to Cybersecurity, Senior Cap-
+              stone, Linear Algebra, Real Analysis, Number Theory</p>
+          </div>
+
+          <h2>Leadership Experience</h2>
+          <div class="resume-item">
+            <h3>Vice President of Quantum Computing Club</h3>
+            <p><strong>University of Utah | 2024</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Organized and led preparations for IBM Qiskit Fall Fest 2024 by hosting an on-campus event, attending seminars, and
+              facilitating club meetings.</p>
+          </div>
+          <div class="resume-item">
+            <h3>Former President of Local TSA Team</h3>
+            <p><strong>Technology Student Association | Granite Technical Institute | 2020</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Led weekly meetings to discuss projects, provide coding assistance, and prepare teammates for competitions; placed
+              first in the Utah State Championship for software development and competed at Nationals.</p>
+          </div>
+
+          <h2>Certifications & Skills</h2>
+          <div class="resume-item">
+            <h3>Skills</h3>
+            <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;- Proficient in Python, Java, C#, C++, SQL, OpenCV, React, Git, and Bash</strong></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;- Experienced in data analysis, Python CLI engineering, ReactNative development,and software engineering practices. I have practice in Looker, CLIs, OpenCV, Bash, and large/collaborative codebases.</p>
+          </div>
+          <div class="resume-item">
+            <h3>CTE Skill Certifications</h3>
+            <p>Java 1 & 2, C# 1 & 2, Python 1, VB 1, Accounting 1 & 2</p>
+          </div>
+
+          <h2><a href="assets/resume.pdf" download>Download My Resume</a></h2>
+        </section>
+      </section>
+    </div>
+    <div class="right-column">
+      <section class="portfolio">
+        <h1>My Portfolio</h1>
+        <div class="portfolio-container">
+          <!-- PBVar -->
+          <div class="card">
+            <h3>PBVar <br><span class="year">(Aug 2024 – Present)</span></h3>
+            <p><strong>Languages: ReactNative, C++, OpenCV, Firebase</strong></p>
+            <p>Developed a mobile app with real-time object tracking that serves as a virtual referee for pickleball games. The app tracks ball and court locations to make play calls (e.g., when the ball goes out of bounds), ensuring accurate and fair decision-making during games.</p>
+            <a>Currently In Development</a>
+          </div>
+
+          <!-- MyriadCLI -->
+          <div class="card">
+            <h3>MyriadCLI <br><span class="year">(2024)</span></h3>
+            <p><strong>Languages: Python, Bash, Docker</strong></p>
+            <p>Python-based CLI using Click to streamline team onboarding and automate tasks. Designed a modular framework for easy integration of team-specific sub-CLIs. Implemented team automation for SSH key generation, Docker setup, Java downloads with certificates, and Git repository configuration.</p>
+            <a>Company Internal Code</a>
+          </div>
+
+          <!-- Drawing Application -->
+          <div class="card">
+            <h3>Drawing Application <br><span class="year">(2024)</span></h3>
+            <p><strong>Languages: Kotlin, XML, SQL</strong></p>
+            <p>Project developed using Android and Kotlin. Allows users to make new drawings and edit past ones. The app uses RoomDB to persist drawings while the app is not running and implements common standards such as Jetpack Navigation and a modern UI framework.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">View on GitHub</a>
+          </div>
+
+          <!-- HTTP Proxy -->
+          <div class="card">
+            <h3>HTTP Proxy <br><span class="year">(2024)</span></h3>
+            <p><strong>Languages: Python</strong></p>
+            <p>Simple HTTP Proxy implemented in Python. Allows caching and filtering of client requests. Acts as a middle man between client and server.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">View on GitHub</a>
+          </div>
+
+          <!-- DuoAlgo -->
+          <div class="card">
+            <h3>DuoAlgo - Sorting Algorithms Educational App <br><span class="year">(2023)</span></h3>
+            <p><strong>Languages: C++</strong></p>
+            <p>Leveraged QT Creator, C++, and Git in a team of 4 to develop a learning application for teaching basic sorting algorithms. The app features learning, practice, and quiz sections to solidify user understanding.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">View on GitHub</a>
+          </div>
+
+          <!-- Wordle Application -->
+          <div class="card">
+            <h3>Wordle Application <br><span class="year">(2021)</span></h3>
+            <p><strong>Languages: Java</strong></p>
+            <p>Simple Wordle clone in Java. Reads valid words externally and mechanically functions as a normal Wordle game.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">View on GitHub</a>
+          </div>
+
+          <!-- Learning Menu Application -->
+          <div class="card">
+            <h3>Learning Menu Application <br><span class="year">(2020)</span></h3>
+            <p><strong>Languages: C#</strong></p>
+            <p>Learning Menu/Course Selector application intended for student and teacher use in school. Admins upload courses and clubs, allowing students to select from available options.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">View on GitHub</a>
+            |
+            <a href="https://youtu.be/2jiGsc7BIao" target="_blank">YouTube</a>
+          </div>
+
+          <!-- Lawnmowing Website -->
+          <div class="card">
+            <h3>Lawnmowing Website <br><span class="year">(2022-Present)</span></h3>
+            <p><strong>Languages: HTML, CSS, JavaScript</strong></p>
+            <p>Website for a lawn mowing business. Serves as a digital storefront to showcase landscaping services while offering personal contact information for client use.</p>
+            <a href="https://github.com/ethanbowles03/WebsitePortfolio/" target="_blank">GitHub</a>
+            |
+            <a href="https://snidermowing.com" target="_blank">Website</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <footer>
+    <div class="contact-wrapper">
+      <div class="contact-title" id="contact-anchor">
+        <h1>Contact Me</h1>
+      </div>
+      <ul class="social-contacts">
+        <li><a href="https://www.github.com/ethanbowles03">
+            <img src="assets/gitlogo.png" alt="GitHub">
+          </a></li>
+        <li><a href="https://www.youtube.com/channel/UCl81pHF8GsP_qCo_fiWxa7g">
+            <img src="assets/youtubelogo.png" alt="YouTube">
+          </a></li>
+        <li><a href="mailto:ethan.p.bowles@gmail.com">
+            <img src="assets/mailogo.png" alt="Email">
+          </a></li>
+        <li><a href="https://www.linkedin.com/in/ethanbowles/">
+            <img src="assets/linkedin.png" alt="LinkedIn">
+          </a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
 </html>
